@@ -1,0 +1,46 @@
+------------ Exception Details on  07/05/2022 9:54:39 PM---------------
+
+
+
+Log Written Date:07/05/2022 9:54:39 PM
+
+Error Line No : line 18
+
+Error Message: FileNotFoundException
+
+Exception Type: System.IO.FileNotFoundException
+
+Error Location : Could not find file 'F:\ASP Claysys Pgms\ExceptionLogToTextFile\ExceptionLogToTextFile\abcd.xml'.
+
+ Error Page Url: https://localhost:44310/Index.aspx
+
+User Host IP: 
+
+
+--------------------*End*-----------------------
+
+
+
+------------ Exception Details on  07/05/2022 9:57:37 PM---------------
+
+
+
+Log Written Date:07/05/2022 9:57:37 PM
+
+Error Line No : line 18
+
+Error Message: FileNotFoundException
+
+Exception Type: System.IO.FileNotFoundException
+
+Error Location : Could not find file 'F:\ASP Claysys Pgms\ExceptionLogToTextFile\ExceptionLogToTextFile\abcd.xml'.
+
+ Error Page Url: https://localhost:44310/Index.aspx
+
+User Host IP: 
+
+
+--------------------*End*-----------------------
+
+
+
